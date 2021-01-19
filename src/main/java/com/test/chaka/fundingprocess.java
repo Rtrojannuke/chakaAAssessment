@@ -10,7 +10,7 @@ public class fundingprocess extends loginTest {
 @Test(priority =1)	
 	public void fundaccnt() {
 		
-		// clicking the Fund Portfolio
+		// clicking the Fund Wallet
 		String funditbtn = "/html/body/div[1]/main/section/section/section[2]/section/button";
 		WebElement fundbtn = driver.findElement(By.xpath(funditbtn));
 		fundbtn.click();
@@ -43,8 +43,7 @@ public class fundingprocess extends loginTest {
 		String cancelicon = "/html/body/div[1]/div[2]/div/div[2]/div/div[1]/a[2]";
 		WebElement cancelbtn = driver.findElement(By.xpath(cancelicon));
 		cancelbtn.click();
-		
-		
+	
 	}
 	
 

@@ -1,21 +1,14 @@
 package com.test.chaka;
 
-import java.time.Duration;
 import java.util.concurrent.TimeUnit;
-import java.util.function.Function;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.ElementNotInteractableException;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
+
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.FluentWait;
-import org.openqa.selenium.support.ui.Wait;
+
 import org.testng.annotations.Test;
 
-public class loginTest extends testBase2{
+public class loginTest extends testBase{
 	
 	@Test(priority=0)
 public void signin() { 
