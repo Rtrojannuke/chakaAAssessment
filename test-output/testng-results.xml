@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-19T23:58:28 WAT" name="Default suite" finished-at="2021-01-19T23:58:50 WAT" duration-ms="22192">
+  <suite started-at="2021-01-20T00:00:20 WAT" name="Default suite" finished-at="2021-01-20T00:00:41 WAT" duration-ms="21255">
     <groups>
     </groups>
-    <test started-at="2021-01-19T23:58:28 WAT" name="Default test" finished-at="2021-01-19T23:58:50 WAT" duration-ms="22192">
+    <test started-at="2021-01-20T00:00:20 WAT" name="Default test" finished-at="2021-01-20T00:00:41 WAT" duration-ms="21255">
       <class name="com.test.chaka.profileUpdate">
-        <test-method is-config="true" signature="beforerunning()[pri:0, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-19T23:58:28 WAT" name="beforerunning" finished-at="2021-01-19T23:58:44 WAT" duration-ms="16042" status="PASS">
+        <test-method is-config="true" signature="beforerunning()[pri:0, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-20T00:00:20 WAT" name="beforerunning" finished-at="2021-01-20T00:00:34 WAT" duration-ms="13728" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforerunning -->
-        <test-method signature="signin()[pri:0, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-19T23:58:44 WAT" name="signin" finished-at="2021-01-19T23:58:44 WAT" duration-ms="858" status="PASS">
+        <test-method signature="signin()[pri:0, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-20T00:00:34 WAT" name="signin" finished-at="2021-01-20T00:00:35 WAT" duration-ms="991" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signin -->
-        <test-method signature="fundaccnt()[pri:1, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-19T23:58:44 WAT" name="fundaccnt" finished-at="2021-01-19T23:58:48 WAT" duration-ms="3434" status="PASS">
+        <test-method signature="fundaccnt()[pri:1, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-20T00:00:35 WAT" name="fundaccnt" finished-at="2021-01-20T00:00:39 WAT" duration-ms="4482" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fundaccnt -->
-        <test-method signature="pupdate()[pri:2, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-19T23:58:48 WAT" name="pupdate" finished-at="2021-01-19T23:58:48 WAT" duration-ms="478" status="PASS">
+        <test-method signature="pupdate()[pri:2, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-20T00:00:39 WAT" name="pupdate" finished-at="2021-01-20T00:00:40 WAT" duration-ms="493" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pupdate -->
-        <test-method is-config="true" signature="afterrunning()[pri:0, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-19T23:58:48 WAT" name="afterrunning" finished-at="2021-01-19T23:58:50 WAT" duration-ms="1309" status="PASS">
+        <test-method is-config="true" signature="afterrunning()[pri:0, instance:com.test.chaka.profileUpdate@46fa7c39]" started-at="2021-01-20T00:00:40 WAT" name="afterrunning" finished-at="2021-01-20T00:00:41 WAT" duration-ms="1483" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterrunning -->

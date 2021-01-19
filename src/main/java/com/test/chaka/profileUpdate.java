@@ -26,7 +26,7 @@ public class profileUpdate extends fundingprocess{
 		WebElement namefild = driver.findElement(By.xpath(namefield));
 		namefild.sendKeys("Mubarak Arimiyah");
 		
-		// Clicking Submit button
+		//Clicking Submit button
 		String submit = "/html/body/div[1]/main/section/section/div/form[1]/section[2]/button";
 		WebElement submitbtn = driver.findElement(By.xpath(submit));
 		submitbtn.click();
