@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-19T22:20:30 WAT" name="Default suite" finished-at="2021-01-19T22:20:49 WAT" duration-ms="18659">
+  <suite started-at="2021-01-19T23:00:13 WAT" name="Default suite" finished-at="2021-01-19T23:00:34 WAT" duration-ms="21691">
     <groups>
     </groups>
-    <test started-at="2021-01-19T22:20:30 WAT" name="Default test" finished-at="2021-01-19T22:20:49 WAT" duration-ms="18659">
+    <test started-at="2021-01-19T23:00:13 WAT" name="Default test" finished-at="2021-01-19T23:00:34 WAT" duration-ms="21691">
       <class name="com.test.chaka.fundingprocess">
-        <test-method is-config="true" signature="beforerunning()[pri:0, instance:com.test.chaka.fundingprocess@1329eff]" started-at="2021-01-19T22:20:30 WAT" name="beforerunning" finished-at="2021-01-19T22:20:45 WAT" duration-ms="14825" status="PASS">
+        <test-method is-config="true" signature="beforerunning()[pri:0, instance:com.test.chaka.fundingprocess@1329eff]" started-at="2021-01-19T23:00:13 WAT" name="beforerunning" finished-at="2021-01-19T23:00:27 WAT" duration-ms="14535" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforerunning -->
-        <test-method signature="signin()[pri:0, instance:com.test.chaka.fundingprocess@1329eff]" started-at="2021-01-19T22:20:45 WAT" name="signin" finished-at="2021-01-19T22:20:47 WAT" duration-ms="1183" status="PASS">
+        <test-method signature="signin()[pri:0, instance:com.test.chaka.fundingprocess@1329eff]" started-at="2021-01-19T23:00:27 WAT" name="signin" finished-at="2021-01-19T23:00:28 WAT" duration-ms="1234" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signin -->
-        <test-method signature="fundaccnt()[pri:1, instance:com.test.chaka.fundingprocess@1329eff]" started-at="2021-01-19T22:20:47 WAT" name="fundaccnt" finished-at="2021-01-19T22:20:49 WAT" duration-ms="2566" status="PASS">
+        <test-method signature="fundaccnt()[pri:1, instance:com.test.chaka.fundingprocess@1329eff]" started-at="2021-01-19T23:00:29 WAT" name="fundaccnt" finished-at="2021-01-19T23:00:34 WAT" duration-ms="5820" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fundaccnt -->
