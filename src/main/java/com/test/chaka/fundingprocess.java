@@ -40,7 +40,9 @@ public class fundingprocess extends loginTest {
 		driver.findElement(By.xpath("/html/body/div[1]/div[2]/div/div[2]/div/div[3]/div[2]/div[1]/p[1]")).isDisplayed();
 		
 		//Since the selected payment method is bank transfer, therefore the pop-up(payment transfer pop-up) will be closed
-		 driver.findElement(By.xpath("/html/body/div[1]/div[2]/div/div[2]/div/div[1]/a[2]")).click();
+		String cancelicon = "/html/body/div[1]/div[2]/div/div[2]/div/div[1]/a[2]";
+		WebElement cancelbtn = driver.findElement(By.xpath(cancelicon));
+		cancelbtn.click();
 		
 		
 	}
