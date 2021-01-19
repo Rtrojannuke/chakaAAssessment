@@ -10,9 +10,11 @@ import org.testng.annotations.Test;
 
 public class loginTest extends testBase{
 	
+	
+	
 	@Test(priority=0)
 public void signin() { 
-		
+				
 		// Clicking the Login button
 		String login = "//*[@id=\"header\"]/nav/ul/li[1]/a";
 		driver.findElement(By.xpath(login)).click();
